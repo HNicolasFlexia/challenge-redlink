@@ -6,7 +6,7 @@ Se desarrolló en Java con Springboot y poseé todas las dependencias para el fu
 
 Se debe ejecutar la clase "ChallengeRedlinkApplication" e importar el archivo JSON en Postman.
 
-### Explicación de las consultas HTTP de JSON:
+### Explicación de las consultas HTTP de Postman:
 
 - **usuario no empleado:** se ingresa con un usuario logeado en el sistema pero que no es de tipo empleado, por lo cual, no posee acceso a prestamos.
 - **usuario empleado sin prestamos disponibles:** se ingresa con un usuario de tipo empleado pero que no posee prestamos disponibles.
